@@ -8,7 +8,11 @@
                 {
                     "Name": "AuditorBase",
                     "Assets":
-                    []
+                    [
+                        {"Name": "Auditor"},
+                        {"Name": "Auditor_Ability"},
+                        {"Name": "Auditor_Special"}
+                    ]
                 },
                 {
                     "Name": "AuditorEasterEggs",
