@@ -172,7 +172,7 @@
                     "Name": "JackalEasterEggs",
                     "Assets": [
                         {"Name": "Marshal_Icon0"},
-                        {"Name": "Necromancer_Icon0"}
+                        {"Name": "Necromancer_Icon0"},
                         {"Name": "Pestilence_Icon0"}
                     ]
                 },
@@ -353,7 +353,7 @@
                         {"Name": "Marshal_Icon0"},
                         {"Name": "Starspawn_Icon0"},
                         {"Name": "Warlock_Icon0"},
-                        {"Name": "Werewolf_Icon0"},
+                        {"Name": "Werewolf_Icon0"}
                     ]
                 },
                 {
@@ -421,7 +421,8 @@
                     "Name": "ArsonistEasterEggs",
                     "Assets": [
                         {"Name": "Marshal_Icon0"},
-                        {"Name": "Pestilence_Icon0"},]
+                        {"Name": "Pestilence_Icon0"}
+                    ]
                 },
                 {
                     "Name": "CovenBase",
@@ -562,12 +563,26 @@
                         {"Name": "Berserker_Icon1"},
                         {"Name": "Cleric_Icon0"},
                         {"Name": "CovenLeader_Icon0"},
-                        {"Name": "Wildling"},
-                        {"Name": "Wildling"},
-                        {"Name": "Wildling"},
-                        {"Name": "Wildling"},
-                        {"Name": "Wildling"},
-                        {"Name": "Wildling"},
+                        {"Name": "Death_Icon0"},
+                        {"Name": "Enchanter_Icon0"},
+                        {"Name": "Investigator_Icon0"},
+                        {"Name": "Jackal_Icon0"},
+                        {"Name": "Jinx_Icon0"},
+                        {"Name": "Marshal_Icon0"},
+                        {"Name": "Pestilence_Icon0"},
+                        {"Name": "Pestilence_Ability_1_Icon0"},
+                        {"Name": "Plaguebearer_Icon0"},
+                        {"Name": "Sheriff_Icon0"},
+                        {"Name": "Shroud_Icon0"},
+                        {"Name": "Socialite_Icon0"},
+                        {"Name": "SoulCollector_Icon0"},
+                        {"Name": "Spy_Icon0"},
+                        {"Name": "Spy_Icon1"},
+                        {"Name": "TavernKeeper_Icon0"},
+                        {"Name": "Veteran_Icon0"},
+                        {"Name": "Vigilante_Icon0"},
+                        {"Name": "Wildling_Icon0"},
+                        {"Name": "Witch_Icon0"}
                     ]
                 },
                 {
@@ -856,7 +871,7 @@
                     "Assets": [
                         {"Name": "Pestilence_Icon0"},
                         {"Name": "Shroud_Icon0"},
-                        {"Name": "Werewolf_Icon0"},
+                        {"Name": "Werewolf_Icon0"}
                     ]
                 },
                 {
@@ -993,7 +1008,7 @@
                         {"Name": "Necromancer_Icon0"},
                         {"Name": "Poisoner_Icon0"},
                         {"Name": "Poisoner_Icon1"},
-                        {"Name": "VoodooMaster_Icon0"},
+                        {"Name": "VoodooMaster_Icon0"}
                     ]
                 }
             ]
