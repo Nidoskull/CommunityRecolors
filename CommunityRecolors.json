@@ -188,7 +188,11 @@
                 {
                     "Name": "JudgeBase",
                     "Assets": 
-                    []
+                    [
+                        {"Name": "Judge"},
+                        {"Name": "Judge_Ability"},
+                        {"Name": "Judge_Special"}
+                    ]
                 },
                 {
                     "Name": "JudgeEasterEggs",
@@ -285,7 +289,12 @@
                 {
                     "Name": "StarspawnBase",
                     "Assets": 
-                    []
+                    [
+                        {"Name": "Starspawn"},
+                        {"Name": "Starspawn_Ability"},
+                        {"Name": "Starspawn_Special"}
+
+                    ]
                 },
                 {
                     "Name": "StarspawnEasterEggs",
