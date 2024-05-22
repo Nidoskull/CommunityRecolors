@@ -693,7 +693,7 @@
                         {"Name": "Jinx_Icon0"},
                         {"Name": "Marshal_Icon0"},
                         {"Name": "Pestilence_Icon0"},
-                        {"Name": "Pestilence_Ability_1_Icon0"},
+                        {"Name": "Pestilence_Ability_Icon0"},
                         {"Name": "Plaguebearer_Icon0"},
                         {"Name": "Sheriff_Icon0"},
                         {"Name": "Shroud_Icon0"},
@@ -1195,7 +1195,7 @@
                         {"Name": "Werewolf_Ability_1"},
                         {"Name": "Werewolf_Ability_2"},
                         {"Name": "Wildling"},
-                        {"Name": "Wildling_Ability_1"},
+                        {"Name": "Wildling_Ability"},
                         {"Name": "Witch"}
                     ]
                     
