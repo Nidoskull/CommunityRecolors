@@ -802,6 +802,8 @@
                         {"Name": "Bread"},
                         {"Name": "Coven"},
                         {"Name": "CommonCoven"},
+                        {"Name": "CommonNeutral"},
+                        {"Name": "CommonTown"},
                         {"Name": "CovenDeception"},
                         {"Name": "CovenKilling"},
                         {"Name": "CovenLeader"},
