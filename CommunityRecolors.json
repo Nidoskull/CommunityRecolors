@@ -1142,6 +1142,7 @@
                     [
                         {"Name": "Admirer"},
                         {"Name": "Amnesiac"},
+                        {"Name": "Baker"},
                         {"Name": "Banshee"},
                         {"Name": "Banshee_Ability"},
                         {"Name": "Berserker"},
@@ -1152,6 +1153,7 @@
                         {"Name": "CovenLeader"},
                         {"Name": "Crusader"},
                         {"Name": "CursedSoul"},
+                        {"Name": "Death"},
                         {"Name": "Deputy"},
                         {"Name": "Dreamweaver"},
                         {"Name": "Enchanter"},
@@ -1169,15 +1171,18 @@
                         {"Name": "Necromancer"},
                         {"Name": "Oracle"},
                         {"Name": "Pestilence"},
+                        {"Name": "Plaguebearer"},
                         {"Name": "Poisoner"},
                         {"Name": "PotionMaster"},
                         {"Name": "Prosecutor"},
                         {"Name": "Psychic"},
                         {"Name": "Retributionist"},
                         {"Name": "Seer"},
+                        {"Name": "SerialKiller"},
                         {"Name": "Sheriff"},
                         {"Name": "Shroud"},
                         {"Name": "Socialite"},
+                        {"Name": "SoulCollector"},
                         {"Name": "TavernKeeper"},
                         {"Name": "TavernKeeper_Ability"},
                         {"Name": "Tracker"},
@@ -1189,6 +1194,8 @@
                         {"Name": "Werewolf"},
                         {"Name": "Werewolf_Ability_1"},
                         {"Name": "Werewolf_Ability_2"},
+                        {"Name": "Wildling"},
+                        {"Name": "Wildling_Ability_1"},
                         {"Name": "Witch"}
                     ]
                     
@@ -1197,6 +1204,7 @@
                     "Name": "WerewolfEasterEggs",
                     "Assets": [
                         {"Name": "Banshee_Icon0"},
+                        {"Name": "Famine_Icon0"},
                         {"Name": "CursedSoul_Icon0"},
                         {"Name": "Necromancer_Icon0"},
                         {"Name": "Poisoner_Icon0"},
