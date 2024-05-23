@@ -602,7 +602,18 @@
                 },
                 {
                     "Name": "CovenEasterEggs",
-                    "Assets": []
+                    "Assets": 
+                    [
+                        {"Name": "Berserker_Icon0"},
+                        {"Name": "Marshal_Icon0"},
+                        {"Name": "Oracle_Icon0"},
+                        {"Name": "Pestilence_Icon0"},
+                        {"Name": "Prosecutor_Icon0"},
+                        {"Name": "Prosecutor_Icon1"},
+                        {"Name": "Starspawn_Icon0"},
+                        {"Name": "Werewolf_Icon0"}
+
+                    ]
                 },
                 {
                     "Name": "Custom",
