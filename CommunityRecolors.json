@@ -274,18 +274,22 @@
                 {
                     "Name": "PandoraEasterEggs",
                     "Assets": [
+                        {"Name": "Banshee_Icon0"},
                         {"Name": "Berserker_Icon0"},
+                        {"Name": "CovenLeader_Icon0"},
                         {"Name": "Death_Icon0"},
                         {"Name": "Famine_Icon0"},
                         {"Name": "Lookout_Icon0"},
                         {"Name": "Pestilence_Icon0"},
                         {"Name": "PotionMaster_Icon0"},
                         {"Name": "SerialKiller_Icon0"},
+                        {"Name": "SerialKiller_Icon1"},
                         {"Name": "Shroud_Icon0"},
                         {"Name": "Veteran_Icon0"},
                         {"Name": "Veteran_Icon1"},
                         {"Name": "War_Icon0"},
-                        {"Name": "Werewolf_Icon0"}
+                        {"Name": "Werewolf_Icon0"},
+                        {"Name": "Witch_Icon0"}
                     ]
                 },
                 {
