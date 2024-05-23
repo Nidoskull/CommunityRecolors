@@ -68,14 +68,29 @@
                     "Name": "EgotistBase",
                     "Assets": 
                     [
+                        {"Name": "Cleric"},
+                        {"Name": "Coroner"},
+                        {"Name": "Crusader"},
+                        {"Name": "Lookout"},
+                        {"Name": "Marshal"},
                         {"Name": "Prosecutor"},
                         {"Name": "Retributionist"},
-                        {"Name": "Veteran"}
+                        {"Name": "Seer"},
+                        {"Name": "Sheriff"},
+                        {"Name": "TavernKeeper"},
+                        {"Name": "Trapper"},
+                        {"Name": "Veteran"},
+                        {"Name": "Vigilante"}
                     ]
                 },
                 {
                     "Name": "EgotistEasterEggs",
-                    "Assets": []
+                    "Assets": 
+                    [
+                        {"Name": "Prosecutor_Icon0"},
+                        {"Name": "Retributionist_Icon0"}
+
+                    ]
                 },
                 {
                     "Name": "FrogsBase",
