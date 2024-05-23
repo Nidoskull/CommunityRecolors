@@ -68,6 +68,7 @@
                     "Name": "EgotistBase",
                     "Assets": 
                     [
+                        {"Name": "Bodyguard"},
                         {"Name": "Cleric"},
                         {"Name": "Coroner"},
                         {"Name": "Crusader"},
