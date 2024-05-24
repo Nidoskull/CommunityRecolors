@@ -68,19 +68,28 @@
                     "Name": "EgotistBase",
                     "Assets": 
                     [
+                        {"Name": "Admirer"},
+                        {"Name": "Amnesiac"},
                         {"Name": "Bodyguard"},
                         {"Name": "Cleric"},
                         {"Name": "Coroner"},
                         {"Name": "Crusader"},
                         {"Name": "Deputy"},
                         {"Name": "Executioner"},
+                        {"Name": "Investigator"},
+                        {"Name": "Jailor"},
                         {"Name": "Lookout"},
                         {"Name": "Marshal"},
+                        {"Name": "Monarch"},
                         {"Name": "Prosecutor"},
+                        {"Name": "Psychic"},
                         {"Name": "Retributionist"},
                         {"Name": "Seer"},
                         {"Name": "Sheriff"},
+                        {"Name": "Socialite"},
+                        {"Name": "Spy"},
                         {"Name": "TavernKeeper"},
+                        {"Name": "Tracker"},
                         {"Name": "Trapper"},
                         {"Name": "Veteran"},
                         {"Name": "Vigilante"}
@@ -92,7 +101,9 @@
                     [
                         {"Name": "Prosecutor_Icon0"},
                         {"Name": "Prosecutor_Icon1"},
-                        {"Name": "Retributionist_Icon0"}
+                        {"Name": "Retributionist_Icon0"},
+                        {"Name": "Veteran_Icon0"},
+                        {"Name": "Vigilante_Icon0"}
 
                     ]
                 },
