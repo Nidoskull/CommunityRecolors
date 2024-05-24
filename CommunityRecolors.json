@@ -96,6 +96,7 @@
                         {"Name": "TavernKeeper"},
                         {"Name": "Tracker"},
                         {"Name": "Trapper"},
+                        {"Name": "Trapper_Ability"},
                         {"Name": "Veteran"},
                         {"Name": "Veteran_Special"},
                         {"Name": "Vigilante"}
