@@ -1189,7 +1189,8 @@
                     "Assets": [
                         {"Name": "CursedSoul_Icon0"},
                         {"Name": "CursedSoul_Icon1"},
-                        {"Name": "CursedSoul_Icon2"}
+                        {"Name": "CursedSoul_Icon2"},
+                        {"Name": "CursedSoul_Icon3"}
                     ]
                 },
                 {
