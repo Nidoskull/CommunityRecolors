@@ -99,6 +99,8 @@
                     "Name": "EgotistEasterEggs",
                     "Assets": 
                     [
+                        {"Name": "Admirer_Icon0"},
+                        {"Name": "Admirer_Icon1"},
                         {"Name": "Prosecutor_Icon0"},
                         {"Name": "Prosecutor_Icon1"},
                         {"Name": "Retributionist_Icon0"},
