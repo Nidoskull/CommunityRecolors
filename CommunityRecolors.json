@@ -69,15 +69,14 @@
                     "Assets": 
                     [
                         {"Name": "Admirer"},
-                        {"Name": "Amnesiac"},
                         {"Name": "Bodyguard"},
                         {"Name": "Bodyguard_Ability"},
                         {"Name": "Bodyguard_Special"},
                         {"Name": "Cleric"},
-                        {"Name": "CursedSoul"},
-                        {"Name": "CursedSoul_Ability"},
                         {"Name": "Coroner"},
                         {"Name": "Crusader"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "CursedSoul_Ability"},
                         {"Name": "Deputy"},
                         {"Name": "Executioner"},
                         {"Name": "Investigator"},
@@ -95,8 +94,10 @@
                         {"Name": "Seer"},
                         {"Name": "Sheriff"},
                         {"Name": "Socialite"},
+                        {"Name": "Socialite_Ability"},
                         {"Name": "Spy"},
                         {"Name": "TavernKeeper"},
+                        {"Name": "TavernKeeper_Ability"},
                         {"Name": "Tracker"},
                         {"Name": "Trapper"},
                         {"Name": "Trapper_Ability"},
@@ -115,6 +116,7 @@
                         {"Name": "Prosecutor_Icon0"},
                         {"Name": "Prosecutor_Icon1"},
                         {"Name": "Retributionist_Icon0"},
+                        {"Name": "TavernKeeper_Icon0"},
                         {"Name": "Veteran_Icon0"},
                         {"Name": "Vigilante_Icon0"}
 
@@ -1179,6 +1181,7 @@
                         {"Name": "Baker"},
                         {"Name": "Berserker"},
                         {"Name": "CursedSoul"},
+                        {"Name": "CursedSoul_Ability"},
                         {"Name": "Jailor"},
                         {"Name": "Plaguebearer"}
                     ]
