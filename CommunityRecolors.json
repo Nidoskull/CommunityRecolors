@@ -69,30 +69,64 @@
                     "Assets": 
                     [
                         {"Name": "Admirer"},
+                        {"Name": "Admirer_Ability_BTOS2"},
+                        {"Name": "Admirer_Ability_Vanilla"},
+                        {"Name": "Admirer_Special_Vanilla"},
                         {"Name": "Amnesiac"},
+                        {"Name": "Amnesiac_Ability"},
                         {"Name": "Bodyguard"},
+                        {"Name": "Bodyguard_Ability"},
+                        {"Name": "Bodyguard_Special"},
                         {"Name": "Cleric"},
+                        {"Name": "Cleric_Ability"},
+                        {"Name": "Cleric_Special"},
                         {"Name": "Coroner"},
+                        {"Name": "Coroner_Ability"},
                         {"Name": "Crusader"},
+                        {"Name": "Crusader_Ability"},
+                        {"Name": "CursedSoul"},
+                        {"Name": "CursedSoul_Ability"},
                         {"Name": "Deputy"},
+                        {"Name": "Deputy_Special"},
                         {"Name": "Executioner"},
                         {"Name": "Investigator"},
+                        {"Name": "Investigator_Ability"},
                         {"Name": "Jailor"},
+                        {"Name": "Jailor_Ability"},
+                        {"Name": "Jailor_Special"},
                         {"Name": "Lookout"},
+                        {"Name": "Lookout_Ability"},
                         {"Name": "Marshal"},
+                        {"Name": "Marshal_Special"},
                         {"Name": "Monarch"},
+                        {"Name": "Monarch_Ability"},
                         {"Name": "Prosecutor"},
+                        {"Name": "Prosecutor_Special"},
                         {"Name": "Psychic"},
+                        {"Name": "Psychic_Ability"},
                         {"Name": "Retributionist"},
+                        {"Name": "Retributionist_Ability_1"},
+                        {"Name": "Retributionist_Ability_2"},
                         {"Name": "Seer"},
+                        {"Name": "Seer_Ability_1"},
+                        {"Name": "Seer_Ability_2"},
                         {"Name": "Sheriff"},
+                        {"Name": "Sheriff_Ability"},
                         {"Name": "Socialite"},
+                        {"Name": "Socialite_Ability"},
                         {"Name": "Spy"},
+                        {"Name": "Spy_Ability"},
                         {"Name": "TavernKeeper"},
+                        {"Name": "TavernKeeper_Ability"},
                         {"Name": "Tracker"},
+                        {"Name": "Tracker_Ability"},
                         {"Name": "Trapper"},
+                        {"Name": "Trapper_Ability"},
+                        {"Name": "Trapper_Special"},
                         {"Name": "Veteran"},
-                        {"Name": "Vigilante"}
+                        {"Name": "Veteran_Special"},
+                        {"Name": "Vigilante"},
+                        {"Name": "Vigilante_Ability"}
                     ]
                 },
                 {
@@ -101,9 +135,11 @@
                     [
                         {"Name": "Admirer_Icon0"},
                         {"Name": "Admirer_Icon1"},
+                        {"Name": "Amnesiac_Icon0"},
                         {"Name": "Prosecutor_Icon0"},
                         {"Name": "Prosecutor_Icon1"},
                         {"Name": "Retributionist_Icon0"},
+                        {"Name": "TavernKeeper_Icon0"},
                         {"Name": "Veteran_Icon0"},
                         {"Name": "Vigilante_Icon0"}
 
@@ -254,11 +290,13 @@
                         {"Name": "Bodyguard"},
                         {"Name": "Cleric"},
                         {"Name": "Conjurer"},
+                        {"Name": "Conjurer_Ability"},
                         {"Name": "Coroner"},
                         {"Name": "CovenLeader"},
                         {"Name": "Crusader"},
                         {"Name": "CursedSoul"},
                         {"Name": "Death"},
+                        {"Name": "Death_Ability"},
                         {"Name": "Deputy"},
                         {"Name": "Dreamweaver"},
                         {"Name": "Enchanter"},
@@ -1168,6 +1206,7 @@
                         {"Name": "Baker"},
                         {"Name": "Berserker"},
                         {"Name": "CursedSoul"},
+                        {"Name": "CursedSoul_Ability"},
                         {"Name": "Jailor"},
                         {"Name": "Plaguebearer"}
                     ]
@@ -1175,7 +1214,12 @@
                 },
                 {
                     "Name": "VampireEasterEggs",
-                    "Assets": []
+                    "Assets": [
+                        {"Name": "CursedSoul_Icon0"},
+                        {"Name": "CursedSoul_Icon1"},
+                        {"Name": "CursedSoul_Icon2"},
+                        {"Name": "CursedSoul_Icon3"}
+                    ]
                 },
                 {
                     "Name": "VIPBase",
