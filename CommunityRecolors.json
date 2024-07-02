@@ -1224,7 +1224,15 @@
                 {
                     "Name": "VIPBase",
                     "Assets": 
-                    []
+                    [
+                        {"Name": "Cleric"},
+                        {"Name": "Jailor"},
+                        {"Name": "Marshal"},
+                        {"Name": "Prosecutor_Special"},
+                        {"Name": "Seer"},
+                        {"Name": "Sheriff"},
+                        {"Name": "Veteran"}
+                    ]
                     
                 },
                 {
