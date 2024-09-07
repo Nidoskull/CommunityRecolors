@@ -1,5 +1,6 @@
 # Role Icon Recolors Blank Template
 
+
 ### By MysticMismagius
 
 This is a template for @AlchlcDvl's [Role Icon Recolors](https://github.com/AlchlcDvl/RoleIconRecolors) mod for Town of Salem 2. Use this to craft your own beautiful icon packs, and for mod debugging purposes. All icons compatible with the mod are included and properly named (I hope).
